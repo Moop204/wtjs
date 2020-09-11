@@ -1,0 +1,2 @@
+# wtjs
+Javascript is weird.
